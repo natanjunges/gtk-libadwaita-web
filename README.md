@@ -11,6 +11,10 @@ Web toolkit for creating graphical user interfaces and building blocks for moder
 - [Adwaita](https://gitlab.gnome.org/GNOME/libadwaita)
     - [CSS](https://gitlab.gnome.org/GNOME/libadwaita/-/tree/main/src/stylesheet)
 
+## Documentation
+- [Gtk – 4.0](https://gnome.pages.gitlab.gnome.org/gtk/gtk4/)
+- [Adw – 1](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1-latest/)
+
 ## License
 > GTK is released under the terms of the GNU Lesser General Public License, version 2.1 or, at your option, any later version, as published by the Free Software Foundation.
 
