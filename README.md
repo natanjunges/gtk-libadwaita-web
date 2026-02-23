@@ -7,9 +7,10 @@ Web toolkit for creating graphical user interfaces and building blocks for moder
 
 ## Upstream repos
 - [GTK — The GTK toolkit](https://gitlab.gnome.org/GNOME/gtk)
-    - [CSS](https://gitlab.gnome.org/GNOME/gtk/-/tree/main/gtk/theme/Default)
+    - [Stylesheets](https://gitlab.gnome.org/GNOME/gtk/-/tree/main/gtk/theme/Default)
+    - [Icons](https://gitlab.gnome.org/GNOME/gtk/-/tree/main/gtk/icons)
 - [Adwaita](https://gitlab.gnome.org/GNOME/libadwaita)
-    - [CSS](https://gitlab.gnome.org/GNOME/libadwaita/-/tree/main/src/stylesheet)
+    - [Stylesheets](https://gitlab.gnome.org/GNOME/libadwaita/-/tree/main/src/stylesheet)
 
 ## Documentation
 - [Gtk – 4.0](https://gnome.pages.gitlab.gnome.org/gtk/gtk4/)
